@@ -58,8 +58,7 @@ a:hover {
     display: flex;
     flex-direction: column;
   }
-
-
+  
   .hero-contents {
     display: flex;
     flex-direction: row;
@@ -67,7 +66,7 @@ a:hover {
     justify-content: center;
     align-items: center;
     margin: 5%;
-    padding-bottom: 300px;
+
   }
 
   .hero-img{
@@ -193,6 +192,14 @@ a:hover {
 
 .about-text h2{
   padding-bottom: 30px;
+}
+
+@media screen and (max-width: 800px) {
+  .about {
+    width: 100%;
+    /* padding: 10%; */
+    margin: auto auto 100px auto;
+  }
 }
 
 /* skills styles */
@@ -456,6 +463,37 @@ a:hover {
 
 }
   
+
+/* resume styles */
+
+.resume {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: center;
+}
+
+.resumeBtn {
+  margin: 2rem;
+  padding: 1.5rem;
+  border-radius: 10px;
+}
+
+
+@media screen and (max-width: 1000px) {
+  .resume {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .resumeImg {
+    width: 400px;
+  }
+
+}
+
 /* footer styles */
 .footer{
   display: flex;
@@ -473,3 +511,17 @@ a:hover {
   text-decoration: none;
 }
  
+@media screen and (max-width: 1000px) {
+  .footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 0.7rem;
+  }
+
+  .footer h3{
+    font-size: 1rem;
+    text-align: center;
+  }
+}

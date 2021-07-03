@@ -1,12 +1,20 @@
-# Getting Started with Create React App
+# Celina's React Resume
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description 
+An version of my portfolio created using React
 
-## Available Scripts
+![Portfolio](./src/components/assets/imgs/reactPortfolio_screengrab.png)
 
-In the project directory, you can run:
+## Tables of Contents
+* [Installation](#installation)
+* [Deployed App](#deployed-app)
+* [Usage](#usage)
+* [Questions](#questions)
 
-### `npm start`
+## Installation 
+* `npm init --y`
+* `npm install `
+* `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,41 +22,22 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm test`
+## Deployed App
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contributing
+N/A
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Questions
+For any questions please reach out to 
+github: [celinalou92](https://github.com/celinalou92)
+email: celinalouissaint@gmail.com
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Repo
 https://github.com/celinalou92/react-portfolio
 
 
 
-
-
-WHEN I view the navigation titles
-THEN I am presented with the titles About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted
-WHEN I click on a navigation title
-THEN I am presented with the corresponding section below the navigation without the page reloading and that title is highlighted
-WHEN I am presented with the Resume section
-THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
