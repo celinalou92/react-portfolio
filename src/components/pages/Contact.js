@@ -2,11 +2,11 @@ import React, { useState } from 'react';
 import { validateEmail } from '../../utils/helpers';
 
 function Contact() {
-    const [formState, setFormState] = useState({ _replyto: '', message: '' });
+    const [formState, setFormState] = useState({name:'',_replyto: '', message: '' });
 
     const [errorMessage, setErrorMessage] = useState('');
 
-    const { _replyto, message } = formState;
+    const { name, _replyto, message } = formState;
 
     // function to record change in state on blur
     const handleChange = (e) => {
@@ -41,9 +41,12 @@ function Contact() {
                     <p>If you would like to contact me regarding freelance work or collaborative projects.</p>
                     <p>Please fill out the form below!</p>
                     <form onSubmit={handleSubmit} action="https://formspree.io/f/xgepnkov" method="post" >
+                    <div className="form-group">
+                            <label for="name">Your Name:</label>
+                            <input name="name" type="text" className="form-control" id="name" aria-describedby="emailHelp"  defaultValue={name} onBlur={handleChange}></input>
+                        </div>
                         <div className="form-group">
                             <label for="email">Email address</label>
-
                             <input name="_replyto" type="email" className="form-control" id="email" aria-describedby="emailHelp"  defaultValue={_replyto} onBlur={handleChange}></input>
 
                             <small id="emailHelp" className="form-text text-muted">I will never share your email with anyone else.</small>
