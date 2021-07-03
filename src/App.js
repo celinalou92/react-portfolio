@@ -3,6 +3,7 @@ import NavBar from './components/NavBar';
 import Resume from './components/pages/Resume';
 import Projects from './components/pages/Projects';
 import Contact from './components/pages/Contact';
+import Footer from './components/Footer';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import './components/assets/styles/styles.css'
 
@@ -18,6 +19,7 @@ function App() {
           <Route exact path='/projects' component={Projects}/>
           <Route exact path='/contact' component={Contact}/>
         </Switch>
+        <Footer/>
       </Router>
     </div>
   );

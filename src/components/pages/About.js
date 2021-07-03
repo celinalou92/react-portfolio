@@ -14,6 +14,7 @@ import PremeirePro from '../assets/imgs/shields/Premeire Pro.png';
 function About() {
   return (
       <div className="hero container-fluid">
+        <div className="about-contents">
         <div className="hero-contents">
           <div className="hero-text">
             <h1
@@ -33,7 +34,7 @@ function About() {
               data-aos-duration="1000"
               data-aos-easing="ease-in-out"
               className="hero-img">
-              <img src={celina} alt=""></img>
+              <img src={celina} alt="celina"></img>
             </div>
           </div>
         </div>
@@ -117,6 +118,7 @@ function About() {
               </div>
             </div>
           </div>
+        </div>
         </div>
       </div>
   )

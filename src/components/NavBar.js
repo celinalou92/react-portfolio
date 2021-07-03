@@ -1,13 +1,19 @@
-import React from 'react';
+import React, { useState } from 'react';
 import menu from './assets/imgs/menu.png';
 import { Link } from 'react-router-dom';
+import { validateEmail } from '../utils/helpers';
 
 function NavBar() {
+    const [currentCat, setCat] = useState();
+
+    const menuHighlight = () => {
+
+    }
 
     return (
         <nav class="navbar navbar-expand-lg fixed-top">
             <div class="brand">
-                <a class="navbar-brand" href="/">Louissaint</a>
+                <a class="navbar-brand" href="/"> Celina Louissaint</a>
             </div>
             <div class="nav_content">
                 <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
