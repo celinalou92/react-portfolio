@@ -393,13 +393,12 @@
   align-items: center;
 }
 .contact-container{
-  width: 400px;
+  width: 70vw;
 }
 
 .contact-me {
   margin: 20px;
   padding: 30px;
-  border: .5px solid rgba(207, 199, 198, 0.5);
   border-radius: 10px;
 }
 
