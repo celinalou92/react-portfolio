@@ -16,14 +16,10 @@ An version of my portfolio created using React
 * `npm install `
 * `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 ## Deployed App
-
+https://celinalou92.github.io/react-portfolio/
 
 
 ## Contributing
@@ -34,10 +30,5 @@ N/A
 For any questions please reach out to 
 github: [celinalou92](https://github.com/celinalou92)
 email: celinalouissaint@gmail.com
-
-
-## Repo
-https://github.com/celinalou92/react-portfolio
-
 
 
