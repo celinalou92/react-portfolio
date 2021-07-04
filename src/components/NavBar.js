@@ -22,7 +22,7 @@ function NavBar() {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mr-auto">
                         <li className="nav-item active">
-                            <Link className="nav-link" to='/'>Home<span className="sr-only">(current)</span></Link>
+                            <Link className="nav-link" to='/react-portfolio'>Home<span className="sr-only">(current)</span></Link>
                         </li>
                         <li className="nav-item active">
                             <Link className="nav-link" to='/resume'>Resume<span className="sr-only">(current)</span></Link>

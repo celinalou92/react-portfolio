@@ -14,7 +14,7 @@ function App() {
       <Router>
         <NavBar/>
         <Switch>
-          <Route exact path='/' component={About}/>
+          <Route exact path='/react-portfolio' component={About}/>
           <Route exact path='/resume' component={Resume}/>
           <Route exact path='/projects' component={Projects}/>
           <Route exact path='/contact' component={Contact}/>
