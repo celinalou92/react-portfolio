@@ -13,7 +13,7 @@ function NavBar() {
     return (
         <nav className="navbar navbar-expand-lg fixed-top">
             <div className="brand">
-                <a className="navbar-brand" href="/react-portfolio'"> Celina Louissaint</a>
+                <a className="navbar-brand" href="/react-portfolio"> Celina Louissaint</a>
             </div>
             <div className="nav_content">
                 <button className="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

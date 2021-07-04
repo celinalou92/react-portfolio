@@ -6,6 +6,14 @@
 
    html {
     scroll-behavior: smooth;
+    position: absolute;
+  }
+
+
+  #hero {
+    position: relative;
+    min-height: 500vh;
+    padding-bottom: 2.5rem;
   }
 
   body {
@@ -14,6 +22,7 @@
     margin-top: 60px;
     color: #ffffff;
     background-color :#1C1C1D;
+    
   }
   
  h2, h3, h4 {
@@ -495,7 +504,14 @@ a:hover {
 }
 
 /* footer styles */
-.footer{
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem; 
+}
+
+.footer {
   display: flex;
   flex-direction: row;
   align-items: center;

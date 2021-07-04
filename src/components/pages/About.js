@@ -13,7 +13,7 @@ import PremeirePro from '../assets/imgs/shields/Premeire Pro.png';
 
 function About() {
   return (
-      <div className="hero container-fluid">
+      <div id="hero" className="hero container-fluid">
         
         <div className="hero-contents">
           <div className="hero-text">
