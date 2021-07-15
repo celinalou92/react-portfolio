@@ -28,10 +28,10 @@ function NavBar() {
                             <Link className="nav-link" to='/resume'>Resume<span className="sr-only">(current)</span></Link>
                         </li>
                         <li className="nav-item active">
-                            <a className="nav-link" href="/projects">Projects</a>
+                            <Link className="nav-link" to="/projects">Projects</Link>
                         </li>
                         <li className="nav-item active">
-                            <a className="nav-link" href="/contact">Contact Me</a>
+                            <Link className="nav-link" to="/contact">Contact Me</Link>
                         </li>
                     </ul>
                 </div>
