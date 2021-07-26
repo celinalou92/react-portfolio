@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.c51436b0.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.448b5194.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.448b5194.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.6b58bce7.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.da75d1ff.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.da75d1ff.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.703248ee.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.703248ee.js.map",
     "static/js/2.3f5431ea.chunk.js": "/react-portfolio/static/js/2.3f5431ea.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.490eb3d8.chunk.js": "/react-portfolio/static/js/3.490eb3d8.chunk.js",
     "static/js/3.490eb3d8.chunk.js.map": "/react-portfolio/static/js/3.490eb3d8.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "static/css/main.c51436b0.chunk.css.map": "/react-portfolio/static/css/main.c51436b0.chunk.css.map",
+    "static/css/main.6b58bce7.chunk.css.map": "/react-portfolio/static/css/main.6b58bce7.chunk.css.map",
     "static/js/2.3f5431ea.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.3f5431ea.chunk.js.LICENSE.txt",
     "static/media/CCE_screengrab.c883ed5e.png": "/react-portfolio/static/media/CCE_screengrab.c883ed5e.png",
     "static/media/EXTRAvert_screengrab.979cd0d4.png": "/react-portfolio/static/media/EXTRAvert_screengrab.979cd0d4.png",
@@ -18,7 +18,7 @@
     "static/media/celina-cut-out-0.75x.f45c4833.png": "/react-portfolio/static/media/celina-cut-out-0.75x.f45c4833.png",
     "static/media/git-it-done_screengrab.eeee8aca.png": "/react-portfolio/static/media/git-it-done_screengrab.eeee8aca.png",
     "static/media/manage-it_screengrab.8ce7ba44.png": "/react-portfolio/static/media/manage-it_screengrab.8ce7ba44.png",
-    "static/media/resumeCelina.c8eeaebd.jpg": "/react-portfolio/static/media/resumeCelina.c8eeaebd.jpg",
+    "static/media/resumeJUL.4bf4a5df.jpg": "/react-portfolio/static/media/resumeJUL.4bf4a5df.jpg",
     "static/media/tech-blog_screengrab.acaf7250.png": "/react-portfolio/static/media/tech-blog_screengrab.acaf7250.png",
     "static/media/trulia_screengrab.c02f0c50.png": "/react-portfolio/static/media/trulia_screengrab.c02f0c50.png",
     "static/media/weatherdash_screengrab.3b999947.png": "/react-portfolio/static/media/weatherdash_screengrab.3b999947.png"
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.703248ee.js",
     "static/js/2.3f5431ea.chunk.js",
-    "static/css/main.c51436b0.chunk.css",
-    "static/js/main.448b5194.chunk.js"
+    "static/css/main.6b58bce7.chunk.css",
+    "static/js/main.da75d1ff.chunk.js"
   ]
 }
