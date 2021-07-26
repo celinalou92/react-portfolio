@@ -6,7 +6,7 @@ import techBlog from '../assets/imgs/tech-blog_screengrab.png';
 import weatherdash from '../assets/imgs/weatherdash_screengrab.png';
 import trulia from '../assets/imgs/trulia_screengrab.png';
 import gitItDone from '../assets/imgs/git-it-done_screengrab.png';
-
+import buddie from '../assets/imgs/buddie_screengrab.png'
 
 
 
@@ -45,6 +45,22 @@ function Projects() {
                     </div>
                     <div className="col-md-6 col-lg-4">
                         <div className="project">
+                            <img src={buddie} alt="Screen Shot of CCE Landing Page"></img>
+                            <h4>Buddie</h4>
+                            <p>A Social Media Full Stack Application</p>
+                            <p>HTML, CSS, JavaScript, Node.js, Express, React, MongoDB, GraphQL</p>
+                            <br></br>
+                            <div className="proj-btn-containter">
+                                <a target="_blank" rel="noreferrer" href="https://buddie-app.herokuapp.com/"
+                                    className="btn btn-outline-secondary btn-sm" role="button" aria-pressed="true">Visit </a>
+                                <a target="_blank" rel="noreferrer" href="https://github.com/Unity7/buddie"
+                                    className="btn btn-outline-secondary btn-sm" role="button" aria-pressed="true">See Github Repo</a>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div className="col-md-6 col-lg-4">
+                        <div className="project">
                             <img src={CCE} alt="Screen Shot of CCE Landing Page"></img>
                             <h4>CCE Landing Page</h4>
                             <p>A Landing Page, Front-End Website</p>
@@ -59,6 +75,8 @@ function Projects() {
 
                         </div>
                     </div>
+
+
                 </div>
                 <div className="container-fluid">
                     <h2 className="projects-h2-text">More Projects</h2>
