@@ -488,6 +488,10 @@ a:hover {
   border-radius: 10px;
 }
 
+.resumeImg {
+  width: 40vw;
+  margin: 20px;
+}
 
 @media screen and (max-width: 1000px) {
   .resume {
