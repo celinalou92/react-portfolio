@@ -49,10 +49,10 @@ function Projects() {
                             <h4>Buddie</h4>
                             <p>A Social Media Full Stack Application</p>
                             <p>HTML, CSS, JavaScript, Node.js, Express, React, MongoDB, GraphQL</p>
-                            <br></br>
+                     
                             <div className="proj-btn-containter">
                                 <a target="_blank" rel="noreferrer" href="https://buddie-app.herokuapp.com/"
-                                    className="btn btn-outline-secondary btn-sm" role="button" aria-pressed="true">Visit </a>
+                                    className="btn btn-outline-secondary btn-sm" role="button" aria-pressed="true">Visit Buddie</a>
                                 <a target="_blank" rel="noreferrer" href="https://github.com/Unity7/buddie"
                                     className="btn btn-outline-secondary btn-sm" role="button" aria-pressed="true">See Github Repo</a>
                             </div>
