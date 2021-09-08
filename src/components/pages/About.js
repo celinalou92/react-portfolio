@@ -34,7 +34,7 @@ function About() {
                 data-aos-delay="1000"
                 data-aos-duration="1000"
                 data-aos-easing="ease-in-out"
-                id="hero-p">Front-End Web Developer.</p>
+                id="hero-p">Full-Stack Web Developer.</p>
                 <div class="center-con" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-delay="1000"
                 data-aos-duration="1000"></div>
             </div>
@@ -52,7 +52,8 @@ function About() {
           <div className="row">
             <div className="about-text">
               <h2>About Me</h2>
-              <p>My name is Celina Louissaint I am a Long Beach based developer and I build fully responsive websites for small businesses, projects and individuals. I have a wide skill set that includes graphic design, video editing, and coding (front end). I can build your site, design your logo and create graphics for your business from beginning to end.</p>
+              <p>My name is Celina Louissaint I am a New York City based developer and I build fully responsive websites for small businesses, projects and individuals. I have a wide skill set that includes graphic design, video editing, and coding. I can build your site, design your logo and create graphics for your business from beginning to end.</p>
+              <p>You can contact me @ celinalouissaint@gmail.com</p>
             </div>
           </div>
         </div>
