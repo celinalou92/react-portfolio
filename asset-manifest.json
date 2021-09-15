@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.6b58bce7.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.f4394d55.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.f4394d55.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.f0239bd8.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.f0239bd8.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.703248ee.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.703248ee.js.map",
     "static/js/2.3f5431ea.chunk.js": "/react-portfolio/static/js/2.3f5431ea.chunk.js",
@@ -18,7 +18,7 @@
     "static/media/celina-cut-out-0.75x.f45c4833.png": "/react-portfolio/static/media/celina-cut-out-0.75x.f45c4833.png",
     "static/media/git-it-done_screengrab.eeee8aca.png": "/react-portfolio/static/media/git-it-done_screengrab.eeee8aca.png",
     "static/media/manage-it_screengrab.8ce7ba44.png": "/react-portfolio/static/media/manage-it_screengrab.8ce7ba44.png",
-    "static/media/resumeJUL.4bf4a5df.jpg": "/react-portfolio/static/media/resumeJUL.4bf4a5df.jpg",
+    "static/media/resumeCelina.080abdfb.jpg": "/react-portfolio/static/media/resumeCelina.080abdfb.jpg",
     "static/media/tech-blog_screengrab.acaf7250.png": "/react-portfolio/static/media/tech-blog_screengrab.acaf7250.png",
     "static/media/trulia_screengrab.c02f0c50.png": "/react-portfolio/static/media/trulia_screengrab.c02f0c50.png",
     "static/media/weatherdash_screengrab.3b999947.png": "/react-portfolio/static/media/weatherdash_screengrab.3b999947.png"
@@ -27,6 +27,6 @@
     "static/js/runtime-main.703248ee.js",
     "static/js/2.3f5431ea.chunk.js",
     "static/css/main.6b58bce7.chunk.css",
-    "static/js/main.f4394d55.chunk.js"
+    "static/js/main.f0239bd8.chunk.js"
   ]
 }
