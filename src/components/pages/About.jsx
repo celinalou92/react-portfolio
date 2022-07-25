@@ -9,6 +9,7 @@ import celina from '../assets/imgs/celina-cut-out-0.75x.png';
 // import Photoshop from '../assets/imgs/shields//Photoshop.png';
 // import PremeirePro from '../assets/imgs/shields/Premeire Pro.png';
 import SkillList from './Components/SkillList/SkillList';
+import  { skills }  from './Components/SkillList/skillData';
 
 function About() {
   return (
@@ -57,7 +58,7 @@ function About() {
         </div>
       </div>
       <div>
-        <SkillList/>
+        <SkillList skills={skills}/>
       </div>
     </div>
 
