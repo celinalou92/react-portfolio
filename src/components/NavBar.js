@@ -1,14 +1,9 @@
-import React, { useState } from 'react';
 import menu from './assets/imgs/menu.png';
 import { Link } from 'react-router-dom';
 
 
 function NavBar() {
-    const [currentCat, setCat] = useState();
 
-    const menuHighlight = () => {
-
-    }
 
     return (
         <nav className="navbar navbar-expand-lg fixed-top">
