@@ -15,6 +15,7 @@ An version of my portfolio created using React
 * `npm init --y`
 * `npm install `
 * `npm start`
+* `npm run dev` watch mode
 
 
 

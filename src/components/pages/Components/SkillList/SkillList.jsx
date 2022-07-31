@@ -4,7 +4,6 @@ import './styles.css'
 
 
 const SkillList = ({skills}) => {
-
     return (
         <div className="container skill-container">
             <h2>My Skill Set</h2>

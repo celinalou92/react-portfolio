@@ -25,9 +25,6 @@ function NavBar() {
                         <li className="nav-item active">
                             <Link className="nav-link" to="/projects">Projects</Link>
                         </li>
-                        <li className="nav-item active">
-                            <Link className="nav-link" to="/contact">Contact Me</Link>
-                        </li>
                     </ul>
                 </div>
             </div>

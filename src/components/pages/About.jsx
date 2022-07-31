@@ -1,13 +1,5 @@
 import React from 'react';
 import celina from '../assets/imgs/celina-cut-out-0.75x.png';
-// import cssShield from '../assets/imgs/shields/cssShield.png';
-// import htmlShield from '../assets/imgs/shields/htmlShield.png';
-// import javascriptShield from '../assets/imgs/shields/javascriptShield.png';
-// import Bootstrap from '../assets/imgs/shields/bootstrapShield.png';
-// import Illustrator from '../assets/imgs/shields//Illustrator.png';
-// import inDesign from '../assets/imgs/shields/InDesign.png';
-// import Photoshop from '../assets/imgs/shields//Photoshop.png';
-// import PremeirePro from '../assets/imgs/shields/Premeire Pro.png';
 import SkillList from './Components/SkillList/SkillList';
 import  { skills }  from './Components/SkillList/skillData';
 
@@ -47,7 +39,6 @@ function About() {
         </div>
 
       </div>
-
       <div className="container-fluid about">
         <div className="row">
           <div className="about-text">

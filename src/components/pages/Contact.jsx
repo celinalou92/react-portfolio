@@ -31,7 +31,7 @@ function Contact() {
     // function to detect form submissions
     function handleSubmit(e) {
         e.preventDefault();
-        console.log(formState);
+        console.log(formState)
     };
     return (
         <div className="contact-me">
@@ -40,7 +40,7 @@ function Contact() {
                     <h2>Contact Celina</h2>
                     <p>If you would like to contact me regarding freelance work or collaborative projects.</p>
                     <p>Please fill out the form below!</p>
-                    <form onSubmit={handleSubmit} action="https://formspree.io/f/xgepnkov" method="post" >
+                    <form onSubmit={handleSubmit} action="https://formspree.io/f/xgepnkov" method="POST" >
                     <div className="form-group">
                             <label for="name">Your Name:</label>
                             <input name="name" type="text" className="form-control" id="name" aria-describedby="emailHelp"  defaultValue={name} onBlur={handleChange}></input>
